@@ -37,8 +37,8 @@ This is a simple single-layer LED circuit PCB designed using **KiCad**.
 ## 📬 Contact Me
 If you want a custom PCB design, feel free to reach out:
 
-📧 yourname@email.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourname)
+📧 abhaykumarm762@gmail.com
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abhay-kumar-305374236  )
 
 ## 🪪 License
 This project is open source under the MIT License.
